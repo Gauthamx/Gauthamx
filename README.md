@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/excuse_me_07" target="_blank">
+  <a href="https://www.instagram.com/gauthamm_07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/768455153313251338" target="_blank">
